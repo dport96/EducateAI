@@ -12,4 +12,4 @@ published: true
   <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: this is a prototype resource site**
   <hr/>
   
-EducateAI-ICS is a resource site providing training and course materials enable use of AI througout the ICS curriculm.
+EducateAI-ICS provides reusable and evolvable training and course materials resources to enable use of AI throughout the ICS curriculum.
