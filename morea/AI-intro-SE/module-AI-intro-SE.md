@@ -21,4 +21,4 @@ morea_end_date:
 morea_labels:
 morea_sort_order: 21
 ---
-Utilizing AI in introductory software engineering
+Utilizing AI to address SWEBOK in introductory software engineering
