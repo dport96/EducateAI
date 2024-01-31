@@ -20,7 +20,7 @@ morea_icon_url: /morea/teaching-with-AI/AI.jpeg
 morea_start_date:
 morea_end_date:
 morea_labels:
-morea_sort_order: 21
+morea_sort_order: 1
 ---
 
 General strategies and methods for utilizing AI in the classroom
